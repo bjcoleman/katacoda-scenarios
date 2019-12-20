@@ -4,6 +4,24 @@
   "difficulty": "Beginner",
   "time": "1",
   "details": {
+    "assets": {
+      "host01": [
+        {
+          "file": "server.cfg",
+          "target": "~/"
+        }
+      ],
+      "host02": [
+        {
+          "file": "client.cfg",
+          "target": "~/"
+        }
+      ]
+    },
+    "intro": {
+      "text": "intro.md",
+      "code": "setup.sh"
+    },
     "steps": [
       {
         "title": "Step 1",
@@ -18,26 +36,8 @@
         "text": "step3.md"
       }
     ],
-    "intro": {
-      "text": "intro.md",
-      "code": "setup.sh"
-    },
     "finish": {
       "text": "finish.md"
-    },
-    "assets": {
-      "host01": [
-        {
-          "file": "server.cfg",
-          "target": "~/"
-        }
-      ],
-      "host02": [
-        {
-          "file": "client.cfg",
-          "target": "~/"
-        }
-      ]
     }
   },
   "environment": {
