@@ -5,7 +5,7 @@
   "time": "1",
   "details": {
     "assets": {
-      "host02": [
+      "client": [
         {
           "file": "server.cfg",
           "target": "~/"
