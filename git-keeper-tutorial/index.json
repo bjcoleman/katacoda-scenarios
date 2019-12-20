@@ -5,6 +5,12 @@
   "time": "1",
   "details": {
     "assets": {
+      "host02": [
+        {
+          "file": "client.cfg",
+          "target": "~/"
+        }
+      ],
       "host01": [
         {
           "file": "server.cfg",
@@ -12,12 +18,6 @@
         },
         {
           "file": "mysmtpd.py",
-          "target": "~/"
-        }
-      ],
-      "client": [
-        {
-          "file": "client.cfg",
           "target": "~/"
         }
       ]
