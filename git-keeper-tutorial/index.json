@@ -14,16 +14,6 @@
           "file": "mysmtpd.py",
           "target": "~/"
         }
-      ],
-      "host01": [
-        {
-          "file": "server.cfg",
-          "target": "~/"
-        },
-        {
-          "file": "mysmtpd.py",
-          "target": "~/"
-        }
       ]
     },
     "intro": {
