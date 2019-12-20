@@ -10,12 +10,6 @@
           "file": "server.cfg",
           "target": "~/"
         }
-      ],
-      "host02": [
-        {
-          "file": "client.cfg",
-          "target": "~/"
-        }
       ]
     },
     "intro": {
