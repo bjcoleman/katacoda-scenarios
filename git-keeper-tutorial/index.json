@@ -15,7 +15,7 @@
           "target": "~/"
         }
       ],
-      "host02": [
+      "client": [
         {
           "file": "client.cfg",
           "target": "~/"
