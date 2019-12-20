@@ -1,5 +1,5 @@
-
-if [ "$HOSTNAME" = host01 ]; then
+host=$(hostname)
+if [ $host = host01 ]; then
 	echo "Setting up the git-keeper server"
 	useradd -m keeper
 	echo 'keeper ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers
