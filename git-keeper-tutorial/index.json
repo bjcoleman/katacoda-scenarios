@@ -26,6 +26,20 @@
       "text": "finish.md"
     }
   },
+  "assets": {
+    "host01": [
+      {
+        "file": "server.cfg",
+        "target": "~/"
+      }
+    ],
+    "host02": [
+      {
+        "file": "client.cfg",
+        "target": "~/"
+      }
+    ]
+  },
   "environment": {
     "uilayout": "terminal-terminal"
   },

@@ -18,5 +18,9 @@ else
 	pip3 install cryptography
 	pip3 install git-keeper/git-keeper-core
         pip3 install git-keeper/git-keeper-client
+	useradd -m prof
+	runuser -l prof -c "mkdir -p .config/git-keeper"
+        cp client.cfg ~prof/.config/git-keeper
+	chown prof ~prof/.config/git-keeper/client.cfg
 fi
 
