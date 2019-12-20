@@ -9,6 +9,16 @@
         {
           "file": "server.cfg",
           "target": "~/"
+        },
+        {
+          "file": "mysmtp.py",
+          "target": "~/"
+        }
+      ],
+      "host02": [
+        {
+          "file": "client.cfg",
+          "target": "~/"
         }
       ]
     },
