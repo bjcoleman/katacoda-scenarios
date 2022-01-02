@@ -25,3 +25,10 @@ be executed in the terminal automatically.
 `git config --global core.autocrlf input`{{execute}}
 
 `git config --global core.safecrlf true`{{execute}}
+
+
+## Setup Nano EDITOR
+
+Run the following command so that `git` uses the `nano` editor.
+
+`git config --global core.editor "nano"`{{execute}}
