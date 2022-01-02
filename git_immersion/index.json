@@ -52,6 +52,10 @@
       {
         "title": "Undoing Local Changes (before staging)",
         "text": "12undounstaged.md"
+      },
+      {
+        "title": "Undoing Local Changes (after staging)",
+        "text": "13undostaged.md"
       }
     ],
     "intro": {
