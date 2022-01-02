@@ -17,8 +17,18 @@ from the command line, `git` will pop you into the editor.
 Any line starting with a `#` is a comment and will **NOT** be part
 of the commit message.
 
-On the first line, enter the comment: "Get name from user."  Save the file
-and exit the editor.
+On the first line, enter the comment:
+
+`Get name from user.`{{copy}}
+
+To save the file, press control-x, and then hit `y` to save your changes.
+**DO NOT** change the name of the file (it will be something like
+  `/root/hello/.git/COMMIT_EDITMS`).  Just hit return.
+
+
+The output will indicate that 1 file was changed with 2 insertions and 3
+deletions (your numbers may be slightly different if you had more of
+fewer blank lines in the file).
 
 ## Check the status
 
