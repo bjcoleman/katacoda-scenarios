@@ -30,7 +30,7 @@ Now add this change to the git's staging area.
 
 `git add hello.py`{{execute}}
 
-`git status`
+`git status`{{execute}}
 
 `git` indicates that the changes will be committed.
 
@@ -39,7 +39,7 @@ Now add this change to the git's staging area.
 Now add a comment to the "Hello, World" program.
 
 `import sys
-# Use "World" if the user does not provide a name as a command line parameter
+ # Use "World" if the user does not provide a name as a command line parameter
 if len(sys.argv) == 2:
     name = sys.argv[1]
 else:
