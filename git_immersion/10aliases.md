@@ -12,7 +12,8 @@ the terminal to edit the `.gitconfig` file:
 
 `nano ~/.gitconfig`{{execute}}
 
-Add the following and then save the file:
+You will see the settings we added at the beginning of this scenario.  Add
+the following at the bottom of the file and then save the file:
 
 `[alias]
   co = checkout
