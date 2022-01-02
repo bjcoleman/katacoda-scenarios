@@ -19,7 +19,7 @@ of the commit message.
 
 On the first line, enter the comment:
 
-`Get name from user.`{{copy}}
+`Get name from command line.`{{copy}}
 
 To save the file, press control-x, and then hit `y` to save your changes.
 **DO NOT** change the name of the file (it will be something like
