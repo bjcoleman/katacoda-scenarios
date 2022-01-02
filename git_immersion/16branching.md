@@ -15,8 +15,8 @@ Let's call our new branch `greet`.
 
 `git status`{{execute}}
 
-*NOTE:* `git checkout -b <branchname>` is a shortcut for `git
-branch <branchname>` followed by a `git checkout <branchname>`.
+*NOTE:* `git checkout -b <branchname>` is a shortcut for
+`git branch <branchname>` followed by a `git checkout <branchname>`.
 
 Notice that the `git status` command reports that you are on the
 `greet` branch.
@@ -26,10 +26,8 @@ Notice that the `git status` command reports that you are on the
 Create a new file `greeter.py` that contains the following class
 
 `class Greeter:
-
     def __init__(self, name):
         self.name = name
-
     def greet(self):
         return 'Hello {}'.format(self.name)
 `{{copy}}
