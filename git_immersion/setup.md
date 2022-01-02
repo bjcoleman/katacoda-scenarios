@@ -1,7 +1,7 @@
 
 ## Goals
 
-* To setup git and ruby so that it is ready for work.
+* To setup git so that it is ready for work.
 
 ## Setup Name and Email
 
