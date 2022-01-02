@@ -52,7 +52,7 @@ Note the hash code of the *previous* commit (where we added a comment).
 Use this hash to reset to the last known good state of the code
 
 
-`git reset --hard <hash>`{{execute}}
+`git reset --hard <hash>`{{copy}}
 
 `git hist`{{execute}}
 
