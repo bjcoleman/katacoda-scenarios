@@ -8,13 +8,14 @@
       {
         "title": "Setup",
         "text": "setup.md"
+      },
+      {
+        "title": "Creat a Repo",
+        "text": "create.md"
       }
     ],
     "intro": {
       "text": "intro.md"
-    },
-    "create": {
-      "text": "create.md"
     },
     "finish": {
       "text": "finish.md"
