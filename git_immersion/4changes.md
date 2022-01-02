@@ -7,7 +7,8 @@
 It's time to change our hello program to take an argument from the
 command line.  Open `hello.py` in the editor and change the code to be:
 
-`name = input('Enter your name: ')
+`import sys
+name = sys.argv[1]
 print('Hello {}!'.format(name))
 `{{copy}}
 
