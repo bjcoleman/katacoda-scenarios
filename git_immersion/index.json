@@ -1,26 +1,35 @@
 {
-  "title": "Learn Git",
-  "description": "Learn how to use the Git (based on the git-immersion labs.  FIXME include link and license.)",
-  "difficulty": "Beginner",
-  "time": "60 minutes",
+  "title": "THIS IS RIDICULOUS",
+  "description": "this is for silly people who need to learn cloud content on the job stat.",
+  "difficulty": "Supeer Advnacnencen",
+  "time": "5 minutes",
   "details": {
     "steps": [
       {
-        "title": "Setup",
-        "text": "setup.md"
+        "title": "Step 1",
+        "text": "step1.md"
       },
+      {
+        "title": "Step 2",
+        "text": "step2.md"
+      },
+      {
+        "title": "Step 3",
+        "text": "step3.md"
+      }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "code": "foreground.sh"
     },
     "finish": {
       "text": "finish.md"
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "python:3.8"
+    "imageid": "ubuntu:2004"
   }
 }
