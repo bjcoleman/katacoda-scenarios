@@ -26,3 +26,5 @@ The origina GitImmersion is released under a
 License.
 
 This kata is released under the same license.
+
+Number of steps: 5
