@@ -60,6 +60,10 @@
       {
         "title": "Undoing Commited Changes",
         "text": "14undocommit.md"
+      },
+      {
+        "title": "Moving and Renaming Files",
+        "text": "15move.md"
       }
     ],
     "intro": {
