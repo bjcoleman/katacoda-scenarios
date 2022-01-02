@@ -68,6 +68,10 @@
       {
         "title": "Branching",
         "text": "16branching.md"
+      },
+      {
+        "title": "Navigating Branches",
+        "text": "17navigatebranches.md"
       }
     ],
     "intro": {
