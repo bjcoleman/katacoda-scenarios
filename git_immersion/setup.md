@@ -20,7 +20,5 @@ into the terminal window.
 
 Run the following commands so that `git` has proper line ending settings.
 
-```
-git config --global core.autocrlf input
-git config --global core.safecrlf true
-```
+`git config --global core.autocrlf input`{{copy}}
+`git config --global core.safecrlf true`{{copy}}
