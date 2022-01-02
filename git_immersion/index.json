@@ -16,6 +16,10 @@
       {
         "title": "Checking Status",
         "text": "status.md"
+      },
+      {
+        "title": "Making Changes",
+        "text": "changes.md"
       }
     ],
     "intro": {
