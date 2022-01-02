@@ -28,6 +28,10 @@
       {
         "title": "Using Multiple Commits",
         "text": "stages.md"
+      },
+      {
+        "title": "Committing Changes",
+        "text": "commit.md"
       }
 
     ],
