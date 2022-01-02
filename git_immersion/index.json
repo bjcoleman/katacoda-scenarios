@@ -56,6 +56,10 @@
       {
         "title": "Undoing Local Changes (after staging)",
         "text": "13undostaged.md"
+      },
+      {
+        "title": "Undoing Commited Changes",
+        "text": "`14undocommit.md"
       }
     ],
     "intro": {
