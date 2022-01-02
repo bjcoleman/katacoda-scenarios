@@ -13,6 +13,9 @@
     "intro": {
       "text": "intro.md"
     },
+    "create": {
+      "text": "create.md"
+    },
     "finish": {
       "text": "finish.md"
     },
