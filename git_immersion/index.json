@@ -24,7 +24,12 @@
       {
         "title": "Staging Changes",
         "text": "staging.md"
+      },
+      {
+        "title": "Using Multiple Commits",
+        "text": "stages.md"
       }
+
     ],
     "intro": {
       "text": "intro.md"
