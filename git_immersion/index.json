@@ -10,8 +10,12 @@
         "text": "setup.md"
       },
       {
-        "title": "Creat a Repo",
+        "title": "Create a Repo",
         "text": "create.md"
+      },
+      {
+        "title": "Checking Status",
+        "text": "status.md"
       }
     ],
     "intro": {
