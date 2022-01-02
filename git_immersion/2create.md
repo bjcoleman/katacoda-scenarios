@@ -30,6 +30,7 @@ Now let's add the "Hello, World" program to the repository.
 
 `git commit -m "First Commit"`{{execute}}
 
+The output indicates that 1 file was changed with 3 insertions (lines added).
 
 HINT:  If you see a message about "Please tell me who you are" then you forgot
 to add your name and email address.  The required commands are in Step 1 of
