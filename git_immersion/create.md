@@ -28,4 +28,9 @@ Now let's add the "Hello, World" program to the repository.
 
 `git add hello.py`{{execute}}
 
-`git commit -m "First Commit`{{execute}}
+`git commit -m "First Commit"`{{execute}}
+
+
+HINT:  If you see a message about "Please tell me who you are" then you forgot
+to add your name and email address.  The required commands are in Step 1 of
+this scenario.
