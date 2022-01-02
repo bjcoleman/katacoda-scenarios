@@ -93,4 +93,6 @@ Now the second change has been staged and is ready to commit.
 
 `git commit -m "Added a comment"`{{execute}}
 
-`git` reports that the file was changed with 1 insertion (the comment).
+`git status`{{execute}}
+
+The `git add` command reports that the file was changed with 1 insertion (the comment).  The `git status` command reports that there are no changes.
