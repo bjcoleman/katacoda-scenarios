@@ -48,7 +48,6 @@ Hello World Program
 import sys
 from greet import Greeter
 
-
 if len(sys.argv) == 2:
     name = sys.argv[1]
 else:
