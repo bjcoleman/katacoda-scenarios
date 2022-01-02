@@ -39,9 +39,12 @@
       },
       {
         "title": "History",
-        "text": "history.md"
+        "text": "9history.md"
+      },
+      {
+        "title": "Aliases",
+        "text": "10aliases.md"
       }
-
     ],
     "intro": {
       "text": "intro.md"
