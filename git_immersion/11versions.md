@@ -26,9 +26,6 @@ the contents of the `hello.py` file.
 The output of the `checkout` command explains the situation pretty
 well.  Notice the contents of the `hello.py` file are the original contents.
 
-*NOTE*: You will not see the changes in the editor window.  For technical
-reasons, KataKoda editor does not recognizes changes outside the editor.
-
 ## Return the latest version in the master branch
 
 `git checkout master`{{execute}}
