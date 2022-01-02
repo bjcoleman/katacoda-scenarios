@@ -27,4 +27,4 @@ License.
 
 This kata is released under the same license.
 
-Number of steps: 9
+Number of steps: 10
