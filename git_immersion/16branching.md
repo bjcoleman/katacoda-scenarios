@@ -63,7 +63,7 @@ Let's make sure it works before we commit.
 
 `python3 src/hello.py`{{execute}}
 
-`python3 src/hello.py Martha`{{exercute}}
+`python3 src/hello.py Martha`{{execute}}
 
 ## Commit the changes
 
