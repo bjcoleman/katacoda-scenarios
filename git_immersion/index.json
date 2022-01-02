@@ -64,6 +64,10 @@
       {
         "title": "Moving and Renaming Files",
         "text": "15move.md"
+      },
+      {
+        "title": "Branching",
+        "text": "16branching.md"
       }
     ],
     "intro": {
