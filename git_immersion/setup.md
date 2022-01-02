@@ -11,6 +11,7 @@ You can click on a command to copy it to the clipboard and then paste it
 into the terminal window.
 
 `git config --global user.name "Your Name"`{{copy}}
+
 `git config --global user.email "your_email@whatever.com"`{{copy}}
 
 
@@ -22,4 +23,5 @@ HINT: These commands are linked so that if you click them the command will
 be executed in the terminal automatically.
 
 `git config --global core.autocrlf input`{{execute}}
+
 `git config --global core.safecrlf true`{{execute}}
