@@ -48,6 +48,10 @@
       {
         "title": "Getting Old Versions",
         "text": "11versions.md"
+      },
+      {
+        "title": "Undoing Local Changes (before staging)",
+        "text": "12undounstaged.md"
       }
     ],
     "intro": {
@@ -63,7 +67,7 @@
   		}
   },
   "environment": {
-    "uilayout": "editor-terminal",
+    "uilayout": "vscode-terminal-split",
     "uieditorpath": "/root/hello"
   },
   "backend": {
