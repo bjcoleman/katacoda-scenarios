@@ -7,31 +7,31 @@
     "steps": [
       {
         "title": "Setup",
-        "text": "setup.md"
+        "text": "1setup.md"
       },
       {
         "title": "Create a Repo",
-        "text": "create.md"
+        "text": "2create.md"
       },
       {
         "title": "Checking Status",
-        "text": "status.md"
+        "text": "3status.md"
       },
       {
         "title": "Making Changes",
-        "text": "changes.md"
+        "text": "4changes.md"
       },
       {
         "title": "Staging Changes",
-        "text": "staging.md"
+        "text": "5staging.md"
       },
       {
         "title": "Using Multiple Commits",
-        "text": "stages.md"
+        "text": "6stages.md"
       },
       {
         "title": "Committing Changes",
-        "text": "commit.md"
+        "text": "7commit.md"
       }
 
     ],
