@@ -25,3 +25,6 @@ Also notice that the status message gives you hints about what you
 need to do next.  If you want to add these changes to the repository,
 then use the `git add` command.  Otherwise the `git restore` command
 can be used to discard the changes.
+
+HINT: If `git` reports `nothing to commit`, then the editor probably has
+not auto-saved yet.  Wait a few seconds and try again.
