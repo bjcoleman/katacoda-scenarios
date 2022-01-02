@@ -24,12 +24,17 @@ There are a lot of options for selecting which entries are
 displayed in the log.  Play around with the following options:
 
 `git log --pretty=oneline --max-count=2`{{execute}}
+
 `git log --pretty=oneline --since='5 minutes ago'`{{execute}}
+
 `git log --pretty=oneline --until='5 minutes ago'`{{execute}}
+
 `git log --pretty=oneline --author=<your name>`{{copy}} (fill in your name)
+
 `git log --pretty=oneline --all`{{execute}}
 
-See `man git-log`{{execute}} for all the details.
+See `man git-log`{{execute}} for all the details.  (Press `q` to exit the `man`
+  page.)
 
 # The Ultimate Log Format
 
