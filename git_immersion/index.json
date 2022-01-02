@@ -15,7 +15,12 @@
     },
     "finish": {
       "text": "finish.md"
-    }
+    },
+    "assets": {
+  			"client": [
+  				{ "file": "hello/*", "target": "~/hello" }
+  			]
+  		}
   },
   "environment": {
     "uilayout": "editor-terminal",
@@ -23,10 +28,5 @@
   },
   "backend": {
     "imageid": "ubuntu:2004"
-  },
-  "assets": {
-			"client": [
-				{ "file": "hello/*", "target": "~/hello" }
-			]
-		}
+  }
 }
