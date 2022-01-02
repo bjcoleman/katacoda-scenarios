@@ -18,9 +18,15 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "editor-terminal",
+    "uieditorpath": "/root/hello"
   },
   "backend": {
     "imageid": "ubuntu:2004"
-  }
+  },
+  "assets": {
+			"client": [
+				{ "file": "hello/*", "target": "~/hello" }
+			]
+		}
 }
