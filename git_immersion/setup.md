@@ -9,8 +9,8 @@ Before we begin, you need to do some setup first.
 Run the following commands so that `git` knows your name and email.
 
 ```
-git config --global user.name "Your Name"
-git config --global user.email "your_email@whatever.com"
+git config --global user.name "Your Name"{{copy}}
+git config --global user.email "your_email@whatever.com"{{copy}}
 ```
 
 
