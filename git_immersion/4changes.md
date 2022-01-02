@@ -17,6 +17,9 @@ Run the program to make sure it is correct:
 `python3 hello.py Omar`{{execute}}
 
 
+HINT: If the program still prints "Hello World!" then the editor probably has
+not auto-saved yet.  Wait a few seconds and try again.
+
 ## Check the status
 
 Now check the status of the working directory.
