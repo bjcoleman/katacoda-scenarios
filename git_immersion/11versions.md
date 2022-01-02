@@ -11,7 +11,7 @@ any snapshot from the repository to the working directory.
 
 
 *Note:* You did remember to define `hist` in your
-@.gitconfig@ file, right?  If not, review the previous step.
+`.gitconfig` file, right?  If not, review the previous step.
 
 
 Examine the log output and find the hash for the first commit.  It
@@ -21,7 +21,7 @@ the contents of the `hello.py` file.
 
 `git checkout <hash>`{{copy}}
 
-`cat hello.rb`{{execute}}
+`cat hello.py`{{execute}}
 
 The output of the `checkout` command explains the situation pretty
 well.  Notice the contents of the `hello.py` file are the original contents.
