@@ -24,6 +24,13 @@ else:
     name = 'World'
 print('Hello {}!'.format(name))`{{copy}}
 
+Run the program to verify that it works:
+
+`python3 hello.py Jane`{{execute}}
+
+`python3 hello.py`{{execute}}
+
+
 ## Add this Change
 
 Now add this change to the git's staging area.
@@ -47,6 +54,12 @@ if len(sys.argv) == 2:
 else:
     name = 'World'
 print('Hello {}!'.format(name))`{{copy}}
+
+Run the program to verify that it still works:
+
+`python3 hello.py Jane`{{execute}}
+
+`python3 hello.py`{{execute}}
 
 ## Check the current status
 

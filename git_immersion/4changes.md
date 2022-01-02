@@ -12,6 +12,11 @@ name = sys.argv[1]
 print('Hello {}!'.format(name))
 `{{copy}}
 
+Run the program to make sure it is correct:
+
+`python3 hello.py Omar`{{execute}}
+
+
 ## Check the status
 
 Now check the status of the working directory.

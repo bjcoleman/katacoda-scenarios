@@ -16,6 +16,10 @@ In the terminal go into the `hello folder`:
 
 `cd hello`{{execute}}
 
+Verify that you can run the program:
+
+`python3 hello.py`{{execute}}
+
 To create a git repository from that directory, run the `git init` command.
 
 `git init`{{execute}}
@@ -24,7 +28,6 @@ To create a git repository from that directory, run the `git init` command.
 ## Add the program to the repository
 
 Now let's add the "Hello, World" program to the repository.
-
 
 `git add hello.py`{{execute}}
 
