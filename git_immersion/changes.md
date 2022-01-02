@@ -7,10 +7,9 @@
 It's time to change our hello program to take an argument from the
 command line.  Open `hello.py` in the editor and change the code to be:
 
-```
-name = input('Enter your name: ')
+`name = input('Enter your name: ')
 print('Hello {}!'.format(name))
-```
+`{{copy}}
 
 ## Check the status
 
