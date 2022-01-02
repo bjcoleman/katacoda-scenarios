@@ -28,4 +28,4 @@ Now let's add the "Hello, World" program to the repository.
 
 `git add hello.py`{{execute}}
 
-`git commit -m "First Commit"{{execute}}
+`git commit -m "First Commit`{{execute}}
