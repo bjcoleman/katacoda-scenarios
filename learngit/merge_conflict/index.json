@@ -1,0 +1,36 @@
+{
+  "title": "Github Workflow Conflict Resolution",
+  "description": "Learn how to resolve a conflict in the Github Workflow",
+  "difficulty": "Intermediate",
+  "time": "20 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Setup",
+        "text": "step1.md"
+      },
+      {
+        "title": "Github Workflow - Do the Work in a Branch",
+        "text": "step2.md"
+      },
+      {
+        "title": "Github Workflow - Make a Pull Request",
+        "text": "step3.md"
+      },
+      {
+        "title": "Github Workflow - Conflict Resolution",
+        "text": "step4.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {},
+  "backend": {
+    "imageid": "python:3.8"
+  }
+}
