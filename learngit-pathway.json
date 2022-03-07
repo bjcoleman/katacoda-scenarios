@@ -1,0 +1,11 @@
+{
+  "title": "Learn Git",
+  "description": "Learn how to use git and the Github workflow.",
+  "courses": [
+    {
+      "course_id": "intro",
+      "title": "Introduction to git",
+      "description": "An introduction to git"
+    }
+  ]
+}
