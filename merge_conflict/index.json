@@ -4,7 +4,7 @@
   "difficulty": "Intermediate",
   "time": "20 minutes",
   "details": {
-    "assets" {
+    "assets": {
       "host01": [
             {"file": "create_repo.py", "target": "/usr/local/bin/"}
         ]
