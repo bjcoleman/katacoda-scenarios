@@ -8,7 +8,7 @@
       "host01": [
             {"file": "create_repo.py", "target": "/usr/local/bin/"}
         ]
-    }
+    },
     "steps": [
       {
         "title": "Setup",
