@@ -1,2 +1,2 @@
-#!/usr/bin/python3
-print('hello world')
+
+python /usr/local/bin/create_repo.py
