@@ -11,7 +11,9 @@
   * IDEA: include text that states what it will do by default and provide the `git config` commands to change it if they want.
   * IDEA: In the create_repo script, add `input` statements for name/email, and then write the values to `.gitconfig`
 * In create_repo and create_conflict Docker containers, set the username and email of the committer when we add commits. (Jacob)
- 
+* Change the bash prompt to display information about the git repo.
+
+
 
 ## Annoyances
 
