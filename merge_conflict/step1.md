@@ -19,7 +19,3 @@ Fork the repo
 
 * Add upstream as a remote
 
-FIXME - In the background (between this step and the next one),
-we could add git hooks to "protect" the student:
-
-* commit on `main`
