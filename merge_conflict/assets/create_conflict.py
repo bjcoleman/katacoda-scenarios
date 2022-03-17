@@ -11,5 +11,3 @@ with open('/root/repo_name') as f:
 json_data = {'repo_name': repo_name}
 
 result = requests.post(url, json=json_data)
-
-print('\n\nSuccess!!\n\n')

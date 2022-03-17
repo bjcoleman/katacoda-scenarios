@@ -18,5 +18,5 @@ repo_url = data['repo_url'].replace('.git', '')
 with open('/root/repo_name', 'w') as f:
     f.write(repo_name)
 
-print('Your repo is named {}.'.format(data['repo_name']))
-print('You can access your repo at {}'.format(data['repo_url']))
+print('Your repo is named {}.'.format(repo_name))
+print('You can access your repo at {}'.format(repo_url))

@@ -13,11 +13,11 @@
     "steps": [
       {
         "title": "Setup",
+        "code": "step1-foreground.sh",
         "text": "step1.md"
       },
       {
         "title": "Github Workflow - Do the Work in a Branch",
-        "code": "step2-foreground.sh",
         "text": "step2.md"
       },
       {
