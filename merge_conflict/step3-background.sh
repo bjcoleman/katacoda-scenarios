@@ -1,1 +1,1 @@
-python /usr/local/bin/create_conflic.py
+python /usr/local/bin/create_conflict.py
