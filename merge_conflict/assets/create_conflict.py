@@ -8,9 +8,8 @@ url = 'https://lfvvlgcpn8.execute-api.us-east-1.amazonaws.com/prod/create_confli
 with open('/root/repo_name') as f:
     repo_name = f.read().strip()
 
-data = {'repo_name': repo_name}
+json_data = {'repo_name': repo_name}
 
-result = requests.post(url, data=data)
+result = requests.post(url, json=json_data)
 
 print('\n\nSuccess!!\n\n')
-
