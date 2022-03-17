@@ -6,7 +6,8 @@
   "details": {
     "assets": {
       "host01": [
-            {"file": "create_repo.py", "target": "/usr/local/bin/"}
+            {"file": "create_repo.py", "target": "/usr/local/bin/"},
+            {"file": "create_conflict.py", "target": "/usr/local/bin/"}
         ]
     },
     "steps": [
@@ -21,6 +22,7 @@
       },
       {
         "title": "Github Workflow - Make a Pull Request",
+        "courseData": "step3-background.sh",
         "text": "step3.md"
       },
       {
